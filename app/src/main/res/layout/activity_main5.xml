@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity5"
+    android:background="#F3423AB7">
+
+    <ImageView
+        android:layout_width="500dp"
+        android:layout_height="300dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="200dp"
+        android:src="@drawable/ima8"/>
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="04"
+            android:textSize="70sp"
+            android:layout_gravity="end"
+            android:textColor="#FFF"
+        android:paddingRight="10dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Focus /"
+        android:textSize="30sp"
+        android:paddingTop="20dp"
+        android:textColor="#FFF"
+        android:paddingLeft="15dp"
+        android:paddingBottom="20dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Breath /"
+        android:textSize="30sp"
+        android:paddingTop="30dp"
+        android:textColor="#FFF"
+        android:paddingLeft="15dp"
+        android:layout_marginTop="30dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="700dp"
+        android:text="End now"
+        android:textColor="#FFF"
+        android:textSize="20sp"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="00"
+        android:textSize="70sp"
+        android:layout_gravity="bottom"
+        android:layout_marginLeft="280dp"
+        android:paddingRight="10dp"
+        android:textColor="#FFF"
+        android:layout_marginBottom="5dp"/>
+</FrameLayout>

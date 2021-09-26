@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LADM_U1_LAYOUTSOCHO</string>
+    <array name="menuppal">
+        <item>Login</item>
+        <item>Login 4 dígitos con teclado numérico</item>
+        <item>Cronómetro</item>
+        <item>Solar</item>
+        <item>Salir</item>
+    </array>
+</resources>
